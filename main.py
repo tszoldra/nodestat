@@ -1,5 +1,5 @@
 """Script entry point."""
-from paramiko_tutorial import main
+from nodestat import main
 
 if __name__ == '__main__':
     main()
