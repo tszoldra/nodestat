@@ -5,7 +5,7 @@
 ![SCP](https://img.shields.io/badge/SCP-v0.13.2-blue.svg?longCache=true&logo=python&style=flat-square&logoColor=white&colorB=5e81ac&colorA=4c566a)
 
 A simple commandline tool that connects to a list of hosts in the network and checks their basic usage statistics.
-
+![nodestat](https://github.com/hackersandslackers/paramiko-tutorial/blob/master/.github/sample_output.jpg)
 ## Installation
 
 **Simplest way: Compiled C version without any dependencies**:
