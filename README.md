@@ -72,5 +72,5 @@ Example how to show stats for nodes specified in the command line rather than in
 
 -----
 
-Based on MIT License, forked from
+MIT License, forked from
 https://github.com/hackersandslackers/paramiko-tutorial
