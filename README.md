@@ -10,7 +10,7 @@ A simple commandline tool that connects to a list of hosts in the network and ch
 
 **Simplest way: Compiled C version without any dependencies**:
 ```shell
-$ git clone https://github.com/c8888/nodestat.git
+$ git clone https://github.com/tszoldra/nodestat.git
 $ cd nodestat
 $ ./main ns.conf
 
@@ -20,7 +20,7 @@ $ ./main ns.conf
 **Python version: Installation of dependencies via `requirements.txt`**:
 
 ```shell
-$ git clone https://github.com/c8888/nodestat.git
+$ git clone https://github.com/tszoldra/nodestat.git
 $ cd nodestat
 $ python3 -m venv myenv
 $ source myenv/bin/activate
