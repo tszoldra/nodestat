@@ -62,6 +62,12 @@ Replace the values in **ns.conf.example** with your values and rename this file 
 * `REMOTE_USERNAME`: Username for remote host.
 * `REMOTE_PATH`: Remote directory to serve as destination for temporary script file uploads.
 
+Example how to show stats for nodes specified in the command line rather than in the config file:
+```shell
+./main ns.conf -n zoa8 clone107 
+```
+
+
 *Remember to never commit secrets saved in config files to Github or anywhere else.*
 
 -----
